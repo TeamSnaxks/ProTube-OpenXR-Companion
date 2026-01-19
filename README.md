@@ -11,3 +11,5 @@ OpenXR is more efficient and allows for other tools such as OpenXR Toolkit, to i
 Additionally it has features that the original ProTube Companion app does not, such as creating custom loadouts split by class (single shot, burst, full auto). It also communicates ammo-out in the Haptic modes (*unless you hold the trigger down indefinitely in full auto mode). Last, it eliminates the annoying "kick on trigger release" behavior of SteamVR.
 
 The Trigger mode also behaves like a software version of the ProVolver Elite, but with more customization.
+
+Do download, click the green code button above and select download zip file, then follow the instructions
