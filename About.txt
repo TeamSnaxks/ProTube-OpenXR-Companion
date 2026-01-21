@@ -8,4 +8,74 @@ OpenXR is more efficient and allows for other tools such as OpenXR Toolkit, to i
 
 Additionally it has features that the original ProTube Companion app does not, such as creating custom loadouts split by class (single shot, burst, full auto). It also communicates ammo-out in the Haptic modes (*unless you hold the trigger down indefinitely in full auto mode). Last, it eliminates the annoying "kick on trigger release" behavior of SteamVR.
 
+
 The Trigger mode also behaves like a software version of the ProVolver Elite, but with more customization.
+
+═══════════════════════════════════════════════════════════════
+ProTube OpenXR Companion v1.01 - COMPATIBILITY
+═══════════════════════════════════════════════════════════════
+
+✅ WORKS WITH (SUPPORTED)
+───────────────────────────────────────────────────────────────
+
+VR HEADSETS:
+• Meta Quest 1
+• Meta Quest 2
+• Meta Quest 3
+• Meta Quest Pro
+• Pico Neo 3
+• Pico 4
+• Any headset using Virtual Desktop for wireless PCVR
+
+CONTROLLERS:
+• Meta Quest Touch controllers
+• Pico controllers (when using Virtual Desktop)
+
+REQUIRED SOFTWARE:
+• Virtual Desktop / Virtual Desktop Streamer
+• Windows 10 or 11
+
+❌ DOES NOT WORK (NOT SUPPORTED)
+───────────────────────────────────────────────────────────────
+
+VR HEADSETS:
+✗ Valve Index
+✗ HTC Vive / Vive Pro / Vive XR Elite
+✗ Windows Mixed Reality headsets
+✗ Pimax headsets
+✗ Varjo headsets
+✗ Any wired PCVR headset
+
+VR STREAMING SOLUTIONS:
+✗ ALVR
+✗ Meta Air Link
+✗ Meta Link Cable (wired)
+✗ Oculus Rift runtime
+✗ SteamVR native mode
+✗ Other third-party streaming apps
+
+WHY THE LIMITATION?
+───────────────────────────────────────────────────────────────
+
+This mod works by replacing Virtual Desktop’s OpenXR DLL file with
+a modified version that adds ProTube support.
+
+Other VR platforms (SteamVR, Oculus, WMR) use completely different
+runtimes and APIs. Supporting them would require entirely separate
+implementations for each platform.
+
+Virtual Desktop was chosen because:
+• Most popular wireless PCVR solution
+• Largest compatible userbase for ProTube accessories
+• Best performance for wireless VR gaming
+
+BOTTOM LINE
+───────────────────────────────────────────────────────────────
+
+✅ IF YOU USE: Virtual Desktop + Quest/Pico → THIS WORKS!
+
+❌ IF YOU USE: SteamVR native / ALVR / AirLink → THIS WON’T WORK
+
+═══════════════════════════════════════════════════════════════
+For installation help, see INSTALLATION_GUIDE.md
+═══════════════════════════════════════════════════════════════
