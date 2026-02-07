@@ -15,3 +15,14 @@ The Trigger mode also behaves like a software version of the ProVolver Elite, bu
 Do download, click the green code button above and select download zip file, then follow the instructions
 
 *This project was designed using Claude Code AI. I will respond to issues to the best of my ability as I am new to coding 
+
+Windows Defender may flag this app immediately OR after several days of use.
+This is normal for PyInstaller-built applications.
+
+If quarantined:
+
+Restore from Protection History
+Add folder exclusion
+File is safe - this is a known false positive.
+
+I am researching to see if I can get it white-listed. Git-hub is the only place to download this but feel free to scan regardless before using
