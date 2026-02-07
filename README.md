@@ -13,3 +13,5 @@ Additionally it has features that the original ProTube Companion app does not, s
 The Trigger mode also behaves like a software version of the ProVolver Elite, but with more customization.
 
 Do download, click the green code button above and select download zip file, then follow the instructions
+
+*This project was designed using Claude Code AI. I will respond to issues to the best of my ability as I am new to coding 
