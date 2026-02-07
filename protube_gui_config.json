@@ -1,0 +1,19 @@
+{
+    "mode_select": "Trigger",
+    "feedback": true,
+    "ignore_left_hand": true,
+    "ignore_right_hand": false,
+    "latency": 10,
+    "filter_window_ms": 96,
+    "single_kick": 80,
+    "single_rumble": 0,
+    "single_duration": 27,
+    "burst_kick": 80,
+    "burst_rumble": 0,
+    "burst_duration": 60,
+    "burst_count": 3,
+    "auto_kick": 80,
+    "auto_rumble": 0,
+    "auto_duration": 60,
+    "auto_rate": 60
+}
